@@ -1,0 +1,1 @@
+I have decided to attempt to solve the bonus question rather than just return -EINVAL. 
